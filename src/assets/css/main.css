@@ -1,0 +1,45 @@
+#app{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.router-link-exact-active {
+    background-color: rgb(230, 230, 230);
+}
+
+.btn-red{
+    background-color: #F50057;
+    color: white;
+}
+
+.badge-success {
+    background-color: #F50057;
+    color: white;
+}
+
+.card-product {
+    border-radius: 15px;
+}
+
+.card-img-top {
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+.breadcrumb {
+    background-color: transparent;
+    padding: 0;
+}
+
+.breadcrumb-item.active {
+    font-weight: bold;
+    color: black;
+}
+
+
+.img-fluid {
+    border-radius: 15px;
+}
+
+.hero{
+    padding: 100px 0;
+}
